@@ -24,6 +24,10 @@ npm --version
 
 ## 🔧 Setup & Installation
 
+npm create vite@latest my-app -- --template react
+cd my-app
+npm install
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/my-app.git
