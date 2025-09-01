@@ -86,6 +86,14 @@ my-app/
 
 Your React app is now ready to deploy online!
 
+# Get started with Tailwind CSS by using react-vite
+1. Create your project
+   ```bash
+   npm create vite@latest my-app -- --template react
+   cd my-app
+   npm install
+   ```
+2. Install Tailwind CSS
 
 # Fix Tailwind CSS 4.x with Vite
 
