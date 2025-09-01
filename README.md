@@ -98,7 +98,7 @@ Your React app is now ready to deploy online!
    npm install tailwindcss @tailwindcss/vite
    ```
 3. Configure the Vite plugin
-Add the @tailwindcss/vite plugin to your Vite configuration.(vite.config.js)
+: Add the @tailwindcss/vite plugin to your Vite configuration(vite.config.js)
    ```bash
        import { defineConfig } from 'vite'
        import react from '@vitejs/plugin-react'
@@ -113,13 +113,13 @@ Add the @tailwindcss/vite plugin to your Vite configuration.(vite.config.js)
 
    ```
 4. Import Tailwind CSS
-Add an @import to your CSS file that imports Tailwind CSS.(src/index.css)
+: Add an @import to your CSS file that imports Tailwind CSS(src/index.css)
 
    ```bash
       @import "tailwindcss";
    ```
 5. Start your build process
-Run your build process with npm run dev or whatever command is configured in your package.json file.
+: Run your build process with npm run dev or whatever command is configured in your package.json file.
    ```bash
          npm run dev
    ```
