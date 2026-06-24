@@ -22,7 +22,15 @@ my-app/
 ```
 
 # UI/UX Prompt
-It's a dark-themed, sci-fi inspired interface that looks like a live network control room — with animated particle nodes connected by glowing lines, real-time data counters, terminal-style monospace text, neon accent colors (cyan/green), and a black canvas background that feels like you're monitoring a global infrastructure system.
+1. Plexus / Constellation Network Background
+
+Dark deep-navy background (#020d12), plexus constellation network 
+animation — glowing cyan-teal dots connected by thin geometric lines 
+forming irregular triangles and polygons. Occasional bright white 
+node flares. Radial glow in center. Canvas-based, 60fps, 
+mouse-interactive. No grid lines, no scanlines — pure plexus mesh.
+
+2. It's a dark-themed, sci-fi inspired interface that looks like a live network control room — with animated particle nodes connected by glowing lines, real-time data counters, terminal-style monospace text, neon accent colors (cyan/green), and a black canvas background that feels like you're monitoring a global infrastructure system.
 
 Create a Cyberpunk / Sci-Fi HUD web interface with:
 - Full-screen dark canvas (#000 or #050a0e background)
